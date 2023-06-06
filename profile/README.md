@@ -40,7 +40,7 @@
   
 ## Arquitectura
   
-  [alt text](./arquitectura.jpg)
+  [Arquitectura](./arquitectura.jpg)
 
   
 
