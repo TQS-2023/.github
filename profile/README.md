@@ -24,6 +24,7 @@
 ### Pickster: http://192.168.160.222:3001/
 ### eStore: http://192.168.160.222:3002/
 ### API: http://192.168.160.222:6868/
+### Documentação da API: http://192.168.160.222:6868/swagger-ui/#/
 
 ## Links relevantes
 [Jira gráfico geral](https://tqspickster.atlassian.net/jira/software/projects/PICK/boards/1/reports/cumulative)
@@ -35,6 +36,9 @@
 [Quality Dashboard]()
   
 [Google Drive](https://drive.google.com/drive/folders/1fBhlVaauZFbVLYYLIWK9Hazx701Cvmov)
+  
+  
+  
   
 
   
