@@ -40,7 +40,7 @@
   
 ## Arquitectura
   
-  [Arquitectura](./arquitectura.jpg)
+  [Arquitectura](https://www.figma.com/file/9Rjx6vzPdkmFkQIzgVMTcH/TQS_diagram?type=whiteboard&node-id=0-1&t=WFkVJ1oAwGSkoElz-0)
 
   
 
