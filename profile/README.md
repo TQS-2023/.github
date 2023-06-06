@@ -19,7 +19,7 @@
 <br>
 
 
-## Disponível na máquina de UA ou por VPN
+## Disponível na rede da UA ou por VPN
 
 ### Pickster: http://192.168.160.222:3001/
 ### eStore: http://192.168.160.222:3002/
