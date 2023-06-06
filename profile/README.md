@@ -8,8 +8,15 @@
 ### 103128 - Guilherme Dias - Team Coordinator
 
 <br>
-<br>
 
+
+## Disponível na máquina de UA ou por VPN
+
+### Pickster: http://192.168.160.222:3001/
+### eStore: http://192.168.160.222:3002/
+### API: http://192.168.160.222:6868/
+
+<br>
 <p> Pickster é uma aplicação de pickup points, que tem como finalidade permitir aos utilizadores escolherem um local de recolha para as suas encomendas, em vez de optarem pelo tradicional método de entrega em casa. <br>
 <p> A plataforma Pickster irá fornecer interfaces para as lojas aderentes gerirem as suas encomendas e disponibilizarem os respetivos pontos de recolha, bem como uma interface para o gerente da Pickster ter uma visão geral de todas as encomendas e respetivos pickup points. <br>
 <p> Para além disso, Pickster irá integrar-se com uma loja online, através de uma API, de forma a que esta possa disponibilizar aos clientes a opção de escolher um ponto para recolha da encomenda. Desta forma, a plataforma irá melhorar a experiência de compra dos utilizadores e proporcionar maior comodidade na recolha das suas encomendas. <br>
