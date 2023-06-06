@@ -38,8 +38,9 @@
 [Google Drive](https://drive.google.com/drive/folders/1fBhlVaauZFbVLYYLIWK9Hazx701Cvmov)
   
   
+## Arquitectura
   
-  
+  [alt text](arquitectura.jpg)
 
   
 
